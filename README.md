@@ -28,24 +28,6 @@ BaseHealth is a decentralized application (dApp) built on the Base blockchain, r
 - Node.js
 - npm or yarn
 
-### Installation
-
-1. Clone the repository:
-   \`\`\`bash
-   git clone https://github.com/roskobb/BaseHealth.git
-   cd BaseHealth
-   \`\`\`
-
-2. Install dependencies:
-   \`\`\`bash
-   npm install
-   \`\`\`
-
-3. Start the development server:
-   \`\`\`bash
-   npm start
-   \`\`\`
-
 ## Usage
 
 Explore BaseHealth to experience secure healthcare data management and patient-driven health initiatives.
